@@ -75,7 +75,7 @@ lang: en-GB # Set the site language
 title: "All Spark Power" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "All Spark Power -  Electricians You Can Trust!" # Site description and default description, also used in jekyll-seo-tag
-url: "https://autumnfall.com.au/" # Site url, also used in jekyll-seo-tag
+url: "https://foxh0und.github.io/All-Spark-Power/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Foxh0und/All-Spark-Power"
 avatarurl: "/assets/logo.png"
