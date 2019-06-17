@@ -1,4 +1,3 @@
-<base href="https://foxh0und.github.io/All-Spark-Power/" />
 ---
 title: Home
 feature_image: "/assets/img/home.jpg"
