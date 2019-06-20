@@ -38,12 +38,9 @@ twitter:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
 author: SimonMurphy # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Simon Murphy# jekyll-seo-tag > real name
+  name: Zac Toohey# jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-
+    - https://www.facebook.com/Allspark-Power-Pty-Ltd-1840289282958024/
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
@@ -73,8 +70,8 @@ timezone: Europe/London # Timezone for blog posts and alike
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "All Spark Power" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/img/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "All Spark Power -  Electricians You Can Trust!" # Site description and default description, also used in jekyll-seo-tag
+logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "All Spark Power - Electricians You Can Trust!" # Site description and default description, also used in jekyll-seo-tag
 url: "allsparkpower.com.au" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Foxh0und/All-Spark-Power"
